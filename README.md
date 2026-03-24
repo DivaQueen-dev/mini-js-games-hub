@@ -1,18 +1,18 @@
-# 🎮 Mini JS Games Hub
+#  Mini JS Games Hub
 
 A fun collection of mini JavaScript games built using **HTML**, **CSS**, and **JavaScript**!  
-Perfect for beginners who want to learn web development, play simple games, and contribute new ideas 🚀
+Perfect for beginners who want to learn web development, play simple games, and contribute new ideas 
 
 ---
 
-## 🕹️ About
+##  About
 This project is an open-source **games hub** where each mini-game is stored in its own folder.  
 Every game runs directly in the browser and is written in pure HTML, CSS, and JS — no frameworks, no build tools, just fun and learning!
 
 You can:
-- Play simple web-based games 🎯  
-- Learn JavaScript by reading the source code 💡  
-- Add your own games and share them with the community 🌍  
+- Play simple web-based games 
+- Learn JavaScript by reading the source code 
+- Add your own games and share them with the community 
 
 ---
 
